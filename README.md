@@ -4,4 +4,4 @@
 <p>login_form.php : ログイン用フォーム</p>
 <p>login_judge.php : ログイン成功の可否</p>
 <p>register.php :会員登録用フォーム</p>
-<p>register_comfirmation :登録確認ページ</p> 
+<p>register_comfirmation :会員登録内容の確認ページ</p> 
