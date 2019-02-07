@@ -5,7 +5,7 @@
 <p>login_judge.php : ログイン成功の可否</p>
 <p>register.php :会員登録用フォーム</p>
 <p>register_comfirmation :会員登録内容の確認ページ</p> 
-<h3>nakazato</h3>
+
 
 <h3>掲示板利用までの流れ</h3>
 <ol>
